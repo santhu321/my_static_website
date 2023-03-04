@@ -1,0 +1,25 @@
+body
+{
+    background-color:#AED6F1;
+    font-family: 'Roboto', sans-serif;
+    
+}
+table,thead,tbody,td,th
+{
+    margin:auto;
+	color:black;
+	
+    padding: 10px;
+	border-style:outset;
+}
+
+h1,h2
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+
+
